@@ -1,0 +1,2 @@
+As diferenças estão nos resultados numéricos, onde houve 
+variação devido ao tipo de variável usada por cada item.
