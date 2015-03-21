@@ -1,0 +1,9 @@
+A) Não há vírgula após o if.
+O correto seria:
+if (c < 7)
+      System.out.println ("c is less than 7");
+      
+B) As estruturas de comparação estão erradas.
+O correto seria:
+if (c >= 7)
+      System.out.println ("c is equal to or greater than 7");
