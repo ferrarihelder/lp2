@@ -1,0 +1,9 @@
+Variavel 3 = 7
+Variavel 4 = 10.5
+Variavel 5 = 10.0
+Variavel 4 e maior que 10.0
+Variavel 5 e menor igual a 10.0
+
+Houve uma variação no resultado entre a "variavel4" e a "variavel5". Isso ocorreu devido ao tipo de variável , na qual o uso do
+tipo float permite que haja o ponto flutuante, ao contrário do que o tipo int proporciona.Em seguida, as estruturas de condição 
+exemplificam o resultado obtido anteriormente com as diferentes variáveis.
