@@ -1,0 +1,2 @@
+O propósito dela é instanciar um objeto. O que acontece quando ela é usada é uma alocação de memória para o objeto
+instanciado , assim, possibilitando a referência a ele.
