@@ -1,0 +1,4 @@
+Tipo abstrato de dados, ou TAD, se refere a um conjunto de dados e operações que suportam um padrão implementado 
+só para tais estruturas. Classe é um tipo abstrato de dados que faz uma abstração da vida real e que molda objetos 
+em seus padrões. Já o objeto é a instância de uma classe, ou seja, a materialização desse TAD em um determinado ESTADO.
+E mensagem é chamar os métodos de um objeto , ou seja, a comunicação entre objetos.
